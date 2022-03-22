@@ -1,0 +1,16 @@
+{
+    "card": {
+        "cells": [
+            {
+                "content": {
+                    "hash": "d8c095acdf146eedf0c25d0b11220cb9",
+                    "height": 192,
+                    "placeholder": "placeholder",
+                    "url": "https://test.stat.online.sberbank.ru/VA/images/first_session/SberCat_VA2.jpg"
+                },
+                "type": "image_cell_view"
+            }
+        ],
+        "type": "list_card"
+    }
+}
